@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="Pictures/aws.png" alt="SkyGuard AI — Automatic Weather Station" width="760" />
-
-# 🌦️ SkyGuard AI
+#  SkyGuard AI
 ### **See the weather. Understand the signals. Protect the station.**
 
 An intelligent Automatic Weather Station (AWS) project combining a modern web interface, embedded firmware, and edge machine-learning experiments to make sensor monitoring easier to understand and maintain.
